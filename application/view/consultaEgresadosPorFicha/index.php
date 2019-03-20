@@ -1,0 +1,1 @@
+<h1>consulta egresados por ficha</h1>
